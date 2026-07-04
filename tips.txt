@@ -1,0 +1,11 @@
+https://youngchampion.jp/episodes/136b3e04b2369
+
+notei que estamos tendo problema com grids fora de ordem 
+em imagens que foram baixadas e estao na pasta 
+"C:\Users\Admin\Documents\PROJETOS\scrapper-manga\downloads\モブから始まる探索英雄譚 - 第43話②"
+
+porem, as paginas que estão na pasta 
+"C:\Users\Admin\Documents\PROJETOS\scrapper-manga\downloads" 
+como o arquivo "C:\Users\Admin\Documents\PROJETOS\scrapper-manga\downloads\page_002.jpg" 
+e os outros 2 estao ok, vc lembra qual metodo utilizou pra baixar esses arquivos?
+ estes nao estao com os grids embaralhados.
